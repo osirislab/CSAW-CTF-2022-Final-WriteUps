@@ -6,3 +6,10 @@
   - Place your write-up in `/<category>/<challenge>/Write-Ups/<Team-Name>`
 - We'll accept write ups until 12th Dec, 2022.
 - There is an example in `./pwn/CryptoPwn/Write-Ups/Official`
+# Official Write-Up
+Check boxs
+- Pwn
+  - [x] CryptoPwn
+  - [x] when_to_h1t
+- Rev
+  - [x] Colorblind
